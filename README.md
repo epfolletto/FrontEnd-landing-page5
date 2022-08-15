@@ -7,18 +7,7 @@ Projeto 4Food
 # `Descrição`
 [Projeto desenvolvido na semana 5 do curso Labenu] </br>
 O Projeto 4Food foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em um sistema de compras (tanto de supermercado quanto de fast food) e entregas de comidas por aplicativo. Para organização, o site é composto por um menu superior, horizontal, no qual existem as seguintes abas: <br/>
--> Início <br/>
--> Fazer pedido <br/>
--> Quem somos <br/>
--> FAQ <br/>
--> Login <br/>
--> Registrar <br/>
--> Recuperar senha <br/>
-Ainda, existem algumas opções de iteração do usuário com o sistema, como por exemplo: <br/>
--> Links para redes sociais <br/>
--> Espaços para campos de busca
-
-**- Página Início:** contém um menu superior, um campo de busca (sem tal funcionalidade) e ícones de fast food e mercado clicáveis. </br>
+**- Página Início:** contém um menu superior, um campo de busca (sem tal funcionalidade) e ícones de fast food e mercado clicáveis. No rodapé existem algumas informações e também ícones das redes, clicáveis </br>
 **- Página Fazer pedido:** são listados inúmeros cards de fast food e também de supermercados. </br>
 **- Página Quem somos:** uma página de apresentação da ferramenta e dos componentes do grupo. </br>
 **- Página FAQ:** contém um campo de busca (sem tal funcionalidade) e uma seção de perguntas frequentes, onde é possível interagir com estas. </br>
