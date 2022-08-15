@@ -41,23 +41,23 @@ Olavo Marques do Nascimento
 <a href="https://www.linkedin.com/in/olavo-marques-6421ab123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Olavo-marques"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 # `Imagens`
-## Aba "Início"
+## Página "Início"
 <img src="./img/site_1.png"/>
 
-## Aba "Fazer pedido"
+## Página "Fazer pedido"
 <img src="./img/site_2.png"/>
 
-## Aba "Quem somos"
+## Página "Quem somos"
 <img src="./img/site_3.png"/>
 
-## Aba "FAQ"
+## Página "FAQ"
 <img src="./img/site_4.png"/>
 
-## Aba "Login"
+## Página "Login"
 <img src="./img/site_5.png"/>
 
-## Aba "Registrar"
+## Página "Registrar"
 <img src="./img/site_6.png"/>
 
-## Aba "Restaurar senha"
+## Página "Restaurar senha"
 <img src="./img/site_7.png"/>
