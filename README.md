@@ -11,7 +11,8 @@ O Projeto 4Food foi desenvolvido dentro do curso Full-Stack Web Developer da Lab
 **- Página "Fazer pedido":** são listados inúmeros cards de fast food e também de supermercados. </br>
 **- Página "Quem somos":** uma página de apresentação da ferramenta e dos componentes do grupo. </br>
 **- Página "FAQ":** contém um campo de busca (sem tal funcionalidade) e uma seção de perguntas frequentes, onde é possível interagir com estas. </br>
-**- Página "Login":** contém um formulário para efetuar o login na página (sem tal funcionalidade). Possui ainda dois botões: "esqueci minha senha" e "ainda não sou cliente", este último que redireciona o usuário para a página Registrar. </br>
+**- Página "Login":** contém um formulário para efetuar o login na página (sem tal funcionalidade). Possui ainda dois botões: "esqueci minha senha" e "ainda não sou cliente", que redirecionam o usuário para as páginas "Esqueci minha senha" e "Registrar", respectivamente. </br>
+**- Página "Esqueci minha senha":** contém um formulário para o usuário inserir seu e-mail de cadastro. </br>
 **- Página "Registrar":** contém um formulário para efetuar o cadastrado na plataforma (sem tal funcionalidade). </br>
 
 # `Tecnologias utilizadas`
