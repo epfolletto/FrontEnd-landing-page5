@@ -60,5 +60,5 @@ Olavo Marques do Nascimento
 ## Página "Registrar"
 <img src="./img/site_6.png"/>
 
-## Página "Restaurar senha"
+## Página "Recuperar senha"
 <img src="./img/site_7.png"/>
