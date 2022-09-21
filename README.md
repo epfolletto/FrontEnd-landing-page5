@@ -5,7 +5,7 @@ Projeto 4Food
 [Clique aqui para acessar](http://4food-alves.surge.sh/)
 
 # `Descrição`
-[Projeto desenvolvido na semana 5 do curso Labenu] </br>
+[Projeto desenvolvido na semana 5 do curso Labenu]. </br>
 O Projeto 4Food foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em um sistema de compras (tanto de supermercado quanto de fast food) e entregas de comidas por aplicativo. Para organização, o site é composto por um menu superior, horizontal, no qual existem as seguintes abas: <br/>
 **- Página "Início":** contém um menu superior, um campo de busca (sem tal funcionalidade) e ícones de fast food e mercado clicáveis. No rodapé existem algumas informações e também ícones das redes, clicáveis. </br>
 **- Página "Fazer pedido":** são listados inúmeros cards de fast food e também de supermercados. </br>
