@@ -1,5 +1,5 @@
 # `Projeto`
-Projeto 4Food
+4Food
 
 # `Link`
 [Clique aqui para acessar](http://4food-alves.surge.sh/)
